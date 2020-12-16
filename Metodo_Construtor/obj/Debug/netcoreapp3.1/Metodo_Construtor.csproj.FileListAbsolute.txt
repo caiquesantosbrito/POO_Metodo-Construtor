@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.exe
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.deps.json
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.dll
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\bin\Debug\netcoreapp3.1\Metodo_Construtor.pdb
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.dll
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.pdb
+C:\Users\caisb\OneDrive\Desktop\Metodo Construtor POO\Metodo_Construtor\obj\Debug\netcoreapp3.1\Metodo_Construtor.genruntimeconfig.cache
